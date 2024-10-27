@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/iamvishukr/iamvishukr/refs/heads/main/Github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamvishukr" target="blank"><img src="https://img.shields.io/twitter/follow/iamvishukr?logo=twitter&style=for-the-badge" alt="iamvishukr" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js, NextJS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **@MERN**
 
 - 📫 How to reach me **iamvishukr.dev@gmail.com**
+- 🧔‍♂️Portfolio **https://portfolio-client-six-beryl.vercel.app/?vercelToolbarCode=AmBGBt9RIZ1IW0C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
